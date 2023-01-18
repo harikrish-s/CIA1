@@ -1,2 +1,2 @@
 None of the three algorithms can work with directed graphs nor with edges with negative weights
-However, for the given graph , since all the nodes are reachable , it is possible to implement these algorithms.
+However, for the given graph , since all the nodes are reachable from the source, it is possible to implement these algorithms.
